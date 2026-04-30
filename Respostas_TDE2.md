@@ -2,7 +2,7 @@
 
 **Nome:** Vinícius Matheus Sary de Lima
 **Data:** 01/05/2026
-**Link para o arquivo com as soluções:** https://github.com/ViniMSLima/LFC_TDE2/Respostas_TDE2.md  
+**Link para o arquivo com as soluções:** [https://github.com/ViniMSLima/LFC_TDE2/Respostas_TDE2.md  ](https://github.com/ViniMSLima/LFC_TDE2/blob/main/Respostas_TDE2.md)
 
 ### QUESTÃO 1
 
