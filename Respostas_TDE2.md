@@ -19,6 +19,7 @@ e) L_4 = { x | x em {0,1}* e x não começa com 1 }.
 Resposta:
 
 a) L_0 (MEFD-0)
+```text
 Estados: q0, q1, q2
 Estado Inicial: q0
 Estados Finais: q0
@@ -30,8 +31,10 @@ q0 --- 0 ---> q1
 q1 --- 1 ---> q0
 q1 --- 0 ---> q2 (morto)
 q2 -- 0,1 --> q2
+```
 
 b) L_1 (MEFD-1)
+```text
 Estados: q0, q1, q2
 Estado Inicial: q0
 Estados Finais: q2
@@ -44,8 +47,10 @@ q1 --- 1 ---> q0
 q1 --- 0 ---> q2
 q2 --- 1 ---> q0
 q2 --- 0 ---> q2
+```
 
 c) L_2 (MEFD-2)
+```text
 Estados: q0, q1, q2, q3, q4
 Estado Inicial: q0
 Estados Finais: q3
@@ -61,8 +66,10 @@ q2 --- 0 ---> q3
 q3 --- 1 ---> q3
 q3 --- 0 ---> q4 (morto)
 q4 -- 0,1 --> q4
+```
 
 d) L_3 (MEFD-3)
+```text
 Estados: q0, q1, q2
 Estado Inicial: q0
 Estados Finais: q1
@@ -73,8 +80,10 @@ q0 --- 1 ---> q1
 q0 --- 0 ---> q2 (morto)
 q1 -- 0,1 --> q1
 q2 -- 0,1 --> q2
+```
 
 e) L_4 (MEFD-4)
+```text
 Estados: q0, q1, q2
 Estado Inicial: q0
 Estados Finais: q0, q1
@@ -85,6 +94,7 @@ q0 --- 0 ---> q1
 q0 --- 1 ---> q2 (morto)
 q1 -- 0,1 --> q1
 q2 -- 0,1 --> q2
+```
 
 --------------------------------------------------------------------------------
 
